@@ -1,0 +1,11 @@
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\bin\Debug\net9.0\BookExam.Infrastructure.deps.json
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\bin\Debug\net9.0\BookExam.Infrastructure.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\bin\Debug\net9.0\BookExam.Infrastructure.pdb
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.AssemblyInfo.cs
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\refint\BookExam.Infrastructure.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\BookExam.Infrastructure.pdb
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Infrastructure\obj\Debug\net9.0\ref\BookExam.Infrastructure.dll

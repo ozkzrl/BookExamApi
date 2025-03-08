@@ -1,0 +1,11 @@
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\bin\Debug\net9.0\BookExam.Application.deps.json
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\bin\Debug\net9.0\BookExam.Application.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\bin\Debug\net9.0\BookExam.Application.pdb
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.AssemblyInfoInputs.cache
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.AssemblyInfo.cs
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.csproj.CoreCompileInputs.cache
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\refint\BookExam.Application.dll
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\BookExam.Application.pdb
+C:\Users\binkunduz\Desktop\BookExamApi\BookExam.Application\obj\Debug\net9.0\ref\BookExam.Application.dll
